@@ -147,7 +147,7 @@ Based on the tutorial's interpretation of the dashboard, the following observati
 
 ### 1. Blinkit Dashboard Overview
 
-`Snapshot of Dashboard.png`
+[`Snapshot of Dashboard.png`](https://github.com/KhushiTrivedii/Blinkit-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 ## 📁 Repository Contents
 
